@@ -9,7 +9,7 @@
         "label": "Inhale",
         "durationSeconds": 5,
         "color": "sage",
-        "soundCue": "sonarHigh",
+        "soundCue": "Sonar High",
         "hapticCue": "off",
         "visualFlash": "blockColor"
       },
@@ -18,7 +18,7 @@
         "label": "Hold",
         "durationSeconds": 5,
         "color": "amber",
-        "soundCue": "sonarPing",
+        "soundCue": "Sonar Ping",
         "hapticCue": "off",
         "visualFlash": "blockColor"
       },
@@ -27,7 +27,7 @@
         "label": "Exhale",
         "durationSeconds": 5,
         "color": "lavender",
-        "soundCue": "sonarLow",
+        "soundCue": "Sonar Low",
         "hapticCue": "off",
         "visualFlash": "blockColor"
       }
