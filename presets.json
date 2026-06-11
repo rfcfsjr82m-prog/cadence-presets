@@ -52,7 +52,7 @@
     "backgroundImageName": "",
     "metronomeEnabled": false,
     "metronomeIntervalSeconds": 60,
-    "metronomeSoundCue": "bellGentle",
+    "metronomeSoundCue": "Bell Gentle",
     "metronomeHapticCue": "softPulse"
   }
 ]
